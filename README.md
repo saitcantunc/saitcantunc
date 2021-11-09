@@ -8,18 +8,16 @@ Here are some ideas to get you started: -->
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
-- 🔭 I’m currently working on a large and special application.
+## I'm a Student 👨‍🎓, Front-End Developer 🚀 and Learner🎓!
+- 🔭 I’m currently working on a Javascript and CSS
 - 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
-- 🤔 I’m looking for help with Flutter front-end developer
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
-
-
-## ⏲ What we are doing now:
-I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
-I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
-I also work as a FreeLancer 🆓.
-
+- 👯 I’m looking to collaborate with other Javascript developer 👩‍💻 and UI designers 🎨
+- 🤔 I’m looking for help with Vue & React developer
+- 🥅 2022 Goals: To be a global freelancer 🌎 and learning UI design 🎨
+- ⚡ Fun fact: I love to watch and play basketball 🏀 and play chess ♟
 <br />
+
+### GitHub Analytics 📊
+
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitcantunc0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+</a>
