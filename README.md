@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other Javascript developer 👩‍💻 and UI designers 🎨
 - 🤔 I’m looking for help with Vue & React developer
-- 🥅 2022 Goals: To be a global freelancer 🌎 and learning UI design 🎨
+- 🥅 2022 Goals: To be a global freelancer 🌎 and learning UI & UX design 🎨
 - ⚡ Fun fact: I love to watch and play basketball 🏀 and play chess ♟
 <br />
 
@@ -21,3 +21,13 @@ Here are some ideas to get you started: -->
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saitcantunc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+### My First React Conf Ticket 🎫
+
+<img height="190em" align="left" src="https://user-images.githubusercontent.com/73478972/144571586-a3eed2be-a022-4db3-ab99-cd5158917e9b.png" alt="ticket"/>
+</a>
+
+
+
