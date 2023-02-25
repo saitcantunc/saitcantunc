@@ -12,10 +12,10 @@ Here are some ideas to get you started: -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Student 👨‍🎓, Front-End Developer 🚀 and Learner🎓!
-- 🔭 I’m currently working on a React and Figma
+- 🔭 I’m currently working on a Vue and Nestjs with TypeScript
 - 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Javascript developer 👩‍💻 and UI designers 🎨
-- 🥅 2022 Goals: To be a global freelancer 🌎 and learning UI & UX design 🎨
+- 👯 I’m looking to collaborate with other Software developer 👩‍💻 and UI designers 🎨
+- 🥅 2023 Goals: To be a good OOP architecture
 - ⚡ Fun fact: I love to watch and play basketball 🏀 and play chess ♟
 <br />
 
